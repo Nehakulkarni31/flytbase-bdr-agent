@@ -1,0 +1,20 @@
+[
+    {
+        "signal": "Codelco's El Teniente mine will remain at reduced levels for the next five years",
+        "source_context": "Codelco El Teniente Accident Investigation Reveals Deep Mining Safety Failures, February 21, 2026, discoveryalert.com.au",
+        "account_id": "acc_1",
+        "company_name": "Codelco"
+    },
+    {
+        "signal": "Two recent accidents involving autonomous trucks at BHP's Escondida mine in Chile",
+        "source_context": "Escondida mine union warns of self-driving truck accidents, https://www.mining.com/web/escondida-union-warns-of-safety-risks-after-autonomous-truck-accidents/",
+        "account_id": "acc_2",
+        "company_name": "Minera Escondida"
+    },
+    {
+        "signal": "SQM is investing $2.7 billion in expansion",
+        "source_context": "SQM Bets Big With $2.7 Billion Expansion as Lithium Prices Rebound and Demand Surges",
+        "account_id": "acc_3",
+        "company_name": "Sociedad Qu\u00edmica y Minera de Chile (SQM)"
+    }
+]

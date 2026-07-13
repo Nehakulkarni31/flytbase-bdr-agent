@@ -1,0 +1,20 @@
+[
+    {
+        "signal": "SQM is investing $2.7 billion in expansion",
+        "source_context": "SQM Bets Big With $2.7 Billion Expansion as Lithium Prices Rebound and Demand Surges",
+        "account_id": "acc_1",
+        "company_name": "Sociedad Qu\u00edmica y Minera de Chile (SQM)"
+    },
+    {
+        "signal": "Albemarle's La Negra lithium processing plant in Chile experienced an incident in August 2025, which is under investigation",
+        "source_context": "https://www.reuters.com/sustainability/climate-energy/albemarle-says-chile-lithium-plant-operating-normally-after-incident-last-week-2025-08-12/",
+        "account_id": "acc_2",
+        "company_name": "Albemarle"
+    },
+    {
+        "signal": "Rio Tinto's acquisition of Arcadium Lithium could supply enough lithium to power one million electric vehicles and meet 90% of Europe's current lithium needs",
+        "source_context": "https://www.mining.com/rio-tinto-to-join-top-three-lithium-miners-with-arcadium-acquisition/",
+        "account_id": "acc_3",
+        "company_name": "Arcadium Lithium"
+    }
+]

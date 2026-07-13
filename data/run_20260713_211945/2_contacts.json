@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Ricardo Ramos Rodr\u00edguez",
+        "title": "Chief Executive Officer",
+        "contact_id": "con_1",
+        "account_id": "acc_1"
+    },
+    {
+        "name": "Luke Kissam",
+        "title": "CEO",
+        "contact_id": "con_2",
+        "account_id": "acc_2"
+    },
+    {
+        "name": "Eduardo Bartolomeo",
+        "title": "Head of Operations",
+        "contact_id": "con_3",
+        "account_id": "acc_3"
+    }
+]

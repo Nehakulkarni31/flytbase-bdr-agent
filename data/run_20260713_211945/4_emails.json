@@ -1,0 +1,29 @@
+[
+    {
+        "subject": "lithium expansion safety",
+        "draft_body": "Ricardo, Shell uses FlytBase for autonomous drone inspection. Your 70% lithium production expansion requires reliable 24/7 monitoring. We can help.",
+        "contact_id": "con_1",
+        "contact_name": "Ricardo Ramos Rodr\u00edguez",
+        "company_name": "Sociedad Qu\u00edmica y Minera de Chile (SQM)",
+        "status": "pending_review",
+        "source_signal_used": "planned lithium production expansion of over 70%"
+    },
+    {
+        "subject": "reducing risk at la negra",
+        "draft_body": "Luke Kissam, Shell uses FlytBase for autonomous drone inspection. La Negra's 2025 acid leak highlights the need for 24/7 monitoring.",
+        "contact_id": "con_2",
+        "contact_name": "Luke Kissam",
+        "company_name": "Albemarle",
+        "status": "pending_review",
+        "source_signal_used": "Albemarle's La Negra processing plant experienced an acid leak due to a pipe rupture in mid-2025"
+    },
+    {
+        "subject": "improve site safety at vale",
+        "draft_body": "Eduardo Bartolomeo, Shell uses FlytBase for autonomous drone inspection. Strengthening dam-safety rules require 24/7 monitoring.",
+        "contact_id": "con_3",
+        "contact_name": "Eduardo Bartolomeo",
+        "company_name": "Vale S.A.",
+        "status": "pending_review",
+        "source_signal_used": "strengthening of dam-safety and mine-closure requirements"
+    }
+]

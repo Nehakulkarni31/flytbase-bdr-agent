@@ -1,0 +1,20 @@
+[
+    {
+        "signal": "planned lithium production expansion of over 70%",
+        "source_context": "Sociedad Qu\u00edmica y Minera De Chile (SQM) Faces A Valuation Test Following Lithium Expansion Plans - Simply Wall St News",
+        "account_id": "acc_1",
+        "company_name": "Sociedad Qu\u00edmica y Minera de Chile (SQM)"
+    },
+    {
+        "signal": "Albemarle's La Negra processing plant experienced an acid leak due to a pipe rupture in mid-2025",
+        "source_context": "https://discoveryalert.com.au/albemarle-chile-lithium-plant-incident-2025/",
+        "account_id": "acc_2",
+        "company_name": "Albemarle"
+    },
+    {
+        "signal": "strengthening of dam-safety and mine-closure requirements",
+        "source_context": "Brazil Country Mining Guide 2026 - IBRAM",
+        "account_id": "acc_3",
+        "company_name": "Vale S.A."
+    }
+]

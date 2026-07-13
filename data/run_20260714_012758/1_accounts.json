@@ -1,0 +1,20 @@
+[
+    {
+        "account_id": "acc_1",
+        "company_name": "Sociedad Qu\u00edmica y Minera de Chile (SQM)",
+        "country": "Chile",
+        "icp_reasoning": "Large-scale lithium producer with operations in the Atacama salt flat, matching the Reference Account's vertical"
+    },
+    {
+        "account_id": "acc_2",
+        "company_name": "Codelco",
+        "country": "Chile",
+        "icp_reasoning": "State-owned copper producer with recent involvement in lithium operations through a deal with Rio Tinto, aligning with the Reference Account's focus on large-scale copper and lithium producers"
+    },
+    {
+        "account_id": "acc_3",
+        "company_name": "Rio Tinto",
+        "country": "Australia/Chile",
+        "icp_reasoning": "Diversified mining company with significant iron ore and copper operations, recently entering the lithium market through a partnership with Codelco, matching the Reference Account's vertical"
+    }
+]

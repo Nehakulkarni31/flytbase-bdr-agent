@@ -1,0 +1,20 @@
+[
+    {
+        "account_id": "acc_1",
+        "company_name": "Codelco",
+        "country": "Chile",
+        "icp_reasoning": "As a government-operated copper mining company in Chile, Codelco is a key player in the Latin American mining industry, with a significant focus on copper production and a 35-year agreement with SQM for lithium development."
+    },
+    {
+        "account_id": "acc_2",
+        "company_name": "Minera Escondida",
+        "country": "Chile",
+        "icp_reasoning": "As the largest copper mine in the world, Minera Escondida is a major contributor to Chile's position as the top copper producer globally, aligning with the Reference Account's focus on large-scale copper mining operations."
+    },
+    {
+        "account_id": "acc_3",
+        "company_name": "Sociedad Qu\u00edmica y Minera de Chile (SQM)",
+        "country": "Chile",
+        "icp_reasoning": "As a leading lithium and copper producer, SQM is a prominent example of a Latin American mining company that matches the Reference Account's profile, with significant operations in Chile and a strong focus on lithium and copper production."
+    }
+]

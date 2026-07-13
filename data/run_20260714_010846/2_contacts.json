@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Jaime San Martin",
+        "title": "Gerente General",
+        "source_url": "https://www.linkedin.com/in/jaimesanmartinl/",
+        "verification_status": "found",
+        "contact_id": "con_1",
+        "account_id": "acc_1"
+    },
+    {
+        "name": "Sebasti\u00e1n Andr\u00e9s Gonz\u00e1lez Valdivia",
+        "title": "Jefe HSE",
+        "source_url": "https://www.linkedin.com/in/sebasti\u00e1n-andr\u00e9s-gonz\u00e1lez-valdivia-09807436/",
+        "verification_status": "found",
+        "contact_id": "con_2",
+        "account_id": "acc_2"
+    },
+    {
+        "name": "",
+        "title": "",
+        "source_url": "",
+        "verification_status": "needs_manual_research",
+        "contact_id": "con_3",
+        "account_id": "acc_3"
+    }
+]

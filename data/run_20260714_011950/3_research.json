@@ -1,0 +1,20 @@
+[
+    {
+        "signal": "SQM has Direct and Indirect GHG Emissions from Operating Sites in Chile",
+        "source_context": "https://ir.sqm.com/static-files/8b24a9a4-ba1a-43be-b414-7a81439cb0ba",
+        "account_id": "acc_1",
+        "company_name": "Sociedad Qu\u00edmica y Minera de Chile (SQM)"
+    },
+    {
+        "signal": "Albemarle's Chile DLE project will reduce net brine extraction from 442 l/s to 342 l/s with one processing train and as low as 142 liters per second with all six trains in use",
+        "source_context": "https://www.reuters.com/world/americas/albemarle-starts-environmental-review-process-lithium-extraction-project-chile-2026-03-25/",
+        "account_id": "acc_2",
+        "company_name": "Albemarle"
+    },
+    {
+        "signal": "Vale plans to increase its autonomous haul truck fleet in Brazil from 14 to 90 units by 2028",
+        "source_context": "https://www.metaltechnews.com/story/2025/12/10/mining-tech/vale-to-scale-autonomous-fleet-in-brazil/2577.html",
+        "account_id": "acc_3",
+        "company_name": "Vale"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "account_id": "acc_1",
+        "company_name": "Sociedad Qu\u00edmica y Minera de Chile (SQM)",
+        "country": "Chile",
+        "icp_reasoning": "As a large-scale lithium, copper, and iron ore producer in Latin America, SQM closely matches the Reference Account due to its significant presence in the region's mining industry."
+    },
+    {
+        "account_id": "acc_2",
+        "company_name": "Albemarle",
+        "country": "Chile",
+        "icp_reasoning": "Albemarle is a major lithium producer in Chile, operating in the Atacama region, which aligns with the Reference Account's focus on large-scale lithium producers in Latin America."
+    },
+    {
+        "account_id": "acc_3",
+        "company_name": "Vale",
+        "country": "Brazil",
+        "icp_reasoning": "As one of the world's largest iron ore producers, Vale's significant operations in Brazil make it a strong match for the Reference Account, given its emphasis on large-scale iron ore mining in Latin America."
+    }
+]

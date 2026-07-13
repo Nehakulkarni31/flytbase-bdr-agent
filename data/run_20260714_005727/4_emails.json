@@ -1,0 +1,35 @@
+[
+    {
+        "name": "",
+        "title": "",
+        "source_url": "",
+        "verification_status": "needs_manual_research",
+        "contact_id": "con_1",
+        "account_id": "acc_1",
+        "subject": "lithium production efficiency",
+        "draft_body": "Hi, as someone who likely follows lithium production trends, I noticed SQM's recent output of 233,000 metric tons of LCE from Salar de Atacama. Anglo American has seen success in optimizing their mining operations. Worth 15 minutes to explore how to streamline site inspections and potentially boost production?",
+        "source_signal_used": "SQM produced 233,000 metric tons of lithium carbonate equivalent (LCE) from its Salar de Atacama operations in 2025"
+    },
+    {
+        "name": "Juan Andr\u00e9s Morel",
+        "title": "Senior Vice President and Chief Operating",
+        "source_url": "https://cl.linkedin.com/in/stesieyes",
+        "verification_status": "found",
+        "contact_id": "con_2",
+        "account_id": "acc_2",
+        "subject": "reducing operational risks in latam mining",
+        "draft_body": "Hi Juan Andr\u00e9s, as someone who oversees operations, you likely understand the impact of unforeseen events like rock bursts on production. Anglo American has seen success in mitigating such risks through advanced monitoring systems. Worth 15 minutes to discuss how to minimize similar losses at your sites?",
+        "source_signal_used": "Codelco's El Teniente mine copper production loss of 48,000 tonnes in 2025 due to a fatal rock burst"
+    },
+    {
+        "name": "Kurt Allen",
+        "title": "Environment, Health and Safety Manager",
+        "source_url": "https://www.linkedin.com/in/kurt-allen-ba413622/",
+        "verification_status": "found",
+        "contact_id": "con_3",
+        "account_id": "acc_3",
+        "subject": "reducing risks at your mining operations",
+        "draft_body": "Hi Kurt, as someone responsible for environment, health and safety, you're likely aware of the recent acid leak at Albemarle's La Negra facility. Anglo American has implemented robust safety measures to prevent similar incidents, and I'd love to explore if our solutions could support your team. Worth 15 minutes to discuss potential risks and prevention strategies at your site?",
+        "source_signal_used": "Albemarle's La Negra lithium processing facility experienced an acid leak due to a burst pipe in mid-2025"
+    }
+]

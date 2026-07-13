@@ -1,0 +1,35 @@
+[
+    {
+        "name": "",
+        "title": "",
+        "source_url": "",
+        "verification_status": "needs_manual_research",
+        "contact_id": "con_1",
+        "account_id": "acc_1",
+        "subject": "reducing emissions in latin american mining operations",
+        "draft_body": "Hi, as someone with experience in the mining industry, I'm sure you're aware of the importance of reducing greenhouse gas emissions, similar to how Anglo American has implemented sustainable practices in their operations. SQM's efforts to address direct and indirect emissions from their Chilean sites are a great example of this. Worth a quick call to discuss how your team is approaching emissions reduction?",
+        "source_signal_used": "SQM has Direct and Indirect GHG Emissions from Operating Sites in Chile"
+    },
+    {
+        "name": "",
+        "title": "",
+        "source_url": "",
+        "verification_status": "needs_manual_research",
+        "contact_id": "con_2",
+        "account_id": "acc_2",
+        "subject": "optimizing water usage in latam mining operations",
+        "draft_body": "Hi, as someone who likely oversees site operations, you might be interested in learning from Albemarle's approach to reducing brine extraction in Chile. Similar to how Anglo American prioritizes sustainable practices, Albemarle's Direct Lithium Extraction project is a great example of innovation in the industry. Worth 15 minutes to discuss how your current water management strategies compare?",
+        "source_signal_used": "Albemarle's Chile DLE project will reduce net brine extraction from 442 l/s to 342 l/s with one processing train and as low as 142 liters per second with all six trains in use"
+    },
+    {
+        "name": "Jamie Vale",
+        "title": "Head of Operations",
+        "source_url": "https://uk.linkedin.com/in/jamie-vale-a782777a",
+        "verification_status": "found",
+        "contact_id": "con_3",
+        "account_id": "acc_3",
+        "subject": "expanding autonomous haul truck fleets in brazil",
+        "draft_body": "Hi Jamie, as you plan to significantly grow your autonomous haul truck fleet in Brazil, I'm curious how you're approaching the operational and logistical challenges that come with this expansion. Companies like Anglo American have seen success in streamlining their operations with similar initiatives. Worth a quick call to discuss potential strategies for managing your growing fleet?",
+        "source_signal_used": "Vale plans to increase its autonomous haul truck fleet in Brazil from 14 to 90 units by 2028"
+    }
+]

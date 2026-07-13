@@ -1,0 +1,20 @@
+[
+    {
+        "signal": "planned lithium production expansion of over 70% by Sociedad Qu\u00edmica y Minera de Chile (SQM) alongside Codelco",
+        "source_context": "Sociedad Qu\u00edmica y Minera De Chile (SQM) Faces A Valuation Test Following Lithium Expansion Plans - Simply Wall St News",
+        "account_id": "acc_1",
+        "company_name": "Sociedad Qu\u00edmica y Minera de Chile (SQM)"
+    },
+    {
+        "signal": "Autonomous trucks are being integrated into the mining industry",
+        "source_context": "https://www.fortunebusinessinsights.com/industry-reports/mining-automation-market-101348",
+        "account_id": "acc_2",
+        "company_name": "Codelco"
+    },
+    {
+        "signal": "Rio Tinto commissions $1.5 billion AP60 smelter",
+        "source_context": "https://www.riotinto.com/en/news/releases",
+        "account_id": "acc_3",
+        "company_name": "Rio Tinto"
+    }
+]

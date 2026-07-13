@@ -1,0 +1,20 @@
+[
+    {
+        "signal": "Contractors Z\u00fcblin, SalfaCorp and Constructora Gardilcic received higher penalties than Codelco for safety procedure violations after the El Teniente mine collapse",
+        "source_context": "https://www.miningreporters.com/noticia/news/2026/04/codelco-contractors-fined-el-teniente-collapse",
+        "account_id": "acc_1",
+        "company_name": "Codelco"
+    },
+    {
+        "signal": "Escondida\u2019s two pits feed three concentrator plants, as well as two leaching operations",
+        "source_context": "https://www.bhp.com/what-we-do/global-locations/chile/escondida",
+        "account_id": "acc_2",
+        "company_name": "Minera Escondida"
+    },
+    {
+        "signal": "1.69 million workhours were completed at Thacker Pass without a serious injury or lost-time incident in 2025",
+        "source_context": "Lithium Americas Provides a Project Update and 2026 Capex Guidance for Thacker Pass",
+        "account_id": "acc_3",
+        "company_name": "Lithium Americas"
+    }
+]

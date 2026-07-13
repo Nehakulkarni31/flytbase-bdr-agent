@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Sebastian Parada",
+        "title": "",
+        "source_url": "",
+        "verification_status": "needs_manual_research",
+        "contact_id": "con_1",
+        "account_id": "acc_1",
+        "subject": "lithium production on the rise in latin america",
+        "draft_body": "Hi Sebastian, with SQM planning to expand lithium production by over 70%, I know scaling site safety is a massive operational focus. Mining peers like Anglo American use FlytBase for 24/7 autonomous drone monitoring to scale those inspections without putting contracted crews at risk. Worth 15 minutes to see if this fits how you currently handle site surveys?",
+        "source_signal_used": "planned lithium production expansion of over 70% by Sociedad Qu\u00edmica y Minera de Chile (SQM) alongside Codelco",
+        "status": "approved_with_human_edits"
+    },
+    {
+        "name": "Juan Andr\u00e9s Morel",
+        "title": "Senior Vice President and Chief Operating",
+        "source_url": "https://cl.linkedin.com/in/stesieyes",
+        "verification_status": "found",
+        "contact_id": "con_2",
+        "account_id": "acc_2",
+        "subject": "improving mine site efficiency with autonomous tech",
+        "draft_body": "Hi Juan Andr\u00e9s, with the push to scale extraction operations across your LatAm sites, I know keeping contracted inspection crews safe is a top priority. Mining peers like Anglo American use FlytBase for 24/7 autonomous drone monitoring to replace manual surveys in hazardous areas. Worth 15 minutes to see if this fits your current site workflows?",
+        "source_signal_used": "Autonomous trucks are being integrated into the mining industry",
+        "status": "approved_with_human_edits"
+    },
+    {
+        "name": "S\u00e9bastien Ross",
+        "title": "Managing Director Atlantic Operations",
+        "source_url": "https://ca.linkedin.com/in/s\u00e9bastien-ross-29230825",
+        "verification_status": "found",
+        "contact_id": "con_3",
+        "account_id": "acc_3",
+        "subject": "improving smelter operations with data driven insights",
+        "draft_body": "Hi S\u00e9bastien, with the industry pushing to scale extraction operations safely, I know monitoring hazardous infrastructure is a massive challenge. Peers like Anglo American use FlytBase for 24/7 autonomous drone inspections to replace manual surveys, keeping contractors out of harm's way. Worth 15 minutes to see if this fits your current site workflows?",
+        "source_signal_used": "Rio Tinto commissions $1.5 billion AP60 smelter",
+        "status": "approved_with_human_edits"
+    }
+]

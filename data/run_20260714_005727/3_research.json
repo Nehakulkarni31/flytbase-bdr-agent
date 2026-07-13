@@ -1,0 +1,20 @@
+[
+    {
+        "signal": "SQM produced 233,000 metric tons of lithium carbonate equivalent (LCE) from its Salar de Atacama operations in 2025",
+        "source_context": "SQM Lithium Chile: Atacama Profile & 2026 Outlook",
+        "account_id": "acc_1",
+        "company_name": "Sociedad Qu\u00edmica y Minera de Chile (SQM)"
+    },
+    {
+        "signal": "Codelco's El Teniente mine copper production loss of 48,000 tonnes in 2025 due to a fatal rock burst",
+        "source_context": "The effect of the fatal rock burst at Codelco\u2019s flagship El Teniente mine will be greater than initially expected, with copper production losses now forecast to reach 48,000 tonnes in 2025, the Chilean producer\u2019s chairman has said.",
+        "account_id": "acc_2",
+        "company_name": "Codelco"
+    },
+    {
+        "signal": "Albemarle's La Negra lithium processing facility experienced an acid leak due to a burst pipe in mid-2025",
+        "source_context": "https://discoveryalert.com.au/albemarle-chile-lithium-plant-incident-2025/",
+        "account_id": "acc_3",
+        "company_name": "Albemarle"
+    }
+]

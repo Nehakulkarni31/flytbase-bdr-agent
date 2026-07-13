@@ -1,0 +1,20 @@
+[
+    {
+        "signal": "Contractors Z\u00fcblin, SalfaCorp and Constructora Gardilcic received penalties for safety procedure violations after a deadly collapse at El Teniente mine",
+        "source_context": "According to inspection records obtained through public information requests, contractors Z\u00fcblin, SalfaCorp and Constructora Gardilcic received higher penalties than Codelco after violations related to safety procedures and accident reporting.",
+        "account_id": "acc_1",
+        "company_name": "Codelco"
+    },
+    {
+        "signal": "SQM has contracted MagSpec Airborne Surveys to conduct a magnetic survey across Tambourah Metals\u2019 Julimar Nth Project in Western Australia",
+        "source_context": "https://mining.com.au/sqm-launches-magnetic-survey-at-tambourahs-julimar-nth-project/",
+        "account_id": "acc_2",
+        "company_name": "Sociedad Qu\u00edmica y Minera de Chile (SQM)"
+    },
+    {
+        "signal": "Escondida\u2019s two pits feed three concentrator plants, as well as two leaching operations (oxide and sulphide)",
+        "source_context": "https://www.bhp.com/what-we-do/global-locations/chile/escondida",
+        "account_id": "acc_3",
+        "company_name": "Minera Escondida"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "name": "",
+        "title": "",
+        "source_url": "",
+        "verification_status": "needs_manual_research",
+        "contact_id": "con_1",
+        "account_id": "acc_1",
+        "subject": "lithium production on the rise in latin america",
+        "draft_body": "Hi, as lithium demand continues to grow, companies like SQM are taking bold steps to increase production, with plans to expand by over 70% in collaboration with Codelco. This shift is likely to impact the entire mining industry, much like Anglo American's own efforts to adapt to changing market conditions. Worth 15 minutes to discuss how your team is preparing for the evolving landscape?",
+        "source_signal_used": "planned lithium production expansion of over 70% by Sociedad Qu\u00edmica y Minera de Chile (SQM) alongside Codelco"
+    },
+    {
+        "name": "Juan Andr\u00e9s Morel",
+        "title": "Senior Vice President and Chief Operating",
+        "source_url": "https://cl.linkedin.com/in/stesieyes",
+        "verification_status": "found",
+        "contact_id": "con_2",
+        "account_id": "acc_2",
+        "subject": "improving mine site efficiency with autonomous tech",
+        "draft_body": "Hi Juan Andr\u00e9s, as a seasoned mining executive, you're likely aware of the growing trend towards autonomous trucks in the industry, similar to Anglo American's successful integration. This shift can significantly enhance site safety and productivity. Worth exploring how autonomous solutions could fit into your current operations?",
+        "source_signal_used": "Autonomous trucks are being integrated into the mining industry"
+    },
+    {
+        "name": "S\u00e9bastien Ross",
+        "title": "Managing Director Atlantic Operations",
+        "source_url": "https://ca.linkedin.com/in/s\u00e9bastien-ross-29230825",
+        "verification_status": "found",
+        "contact_id": "con_3",
+        "account_id": "acc_3",
+        "subject": "improving smelter operations with data driven insights",
+        "draft_body": "Hi S\u00e9bastien, as someone overseeing Atlantic operations, you likely appreciate the importance of efficient smelter management, similar to how Anglo American optimizes their processes. The recent Rio Tinto AP60 smelter investment highlights the industry's focus on innovative solutions. Worth exploring how our approach could enhance your current operations?",
+        "source_signal_used": "Rio Tinto commissions $1.5 billion AP60 smelter"
+    }
+]

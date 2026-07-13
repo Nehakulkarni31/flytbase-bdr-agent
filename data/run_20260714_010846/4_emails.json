@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Jaime San Martin",
+        "title": "Gerente General",
+        "source_url": "https://www.linkedin.com/in/jaimesanmartinl/",
+        "verification_status": "found",
+        "contact_id": "con_1",
+        "account_id": "acc_1",
+        "subject": "improving safety procedures at your mine sites",
+        "draft_body": "Hi Jaime, as someone who understands the importance of safety in mining operations, I wanted to reach out given the recent penalties imposed on contractors like Z\u00fcblin and SalfaCorp. Anglo American has seen success in reducing safety procedure violations through proactive measures. Worth 15 minutes to discuss how you're currently handling site inspections and potential areas for improvement?",
+        "source_signal_used": "Contractors Z\u00fcblin, SalfaCorp and Constructora Gardilcic received higher penalties than Codelco for safety procedure violations after the El Teniente mine collapse"
+    },
+    {
+        "name": "Sebasti\u00e1n Andr\u00e9s Gonz\u00e1lez Valdivia",
+        "title": "Jefe HSE",
+        "source_url": "https://www.linkedin.com/in/sebasti\u00e1n-andr\u00e9s-gonz\u00e1lez-valdivia-09807436/",
+        "verification_status": "found",
+        "contact_id": "con_2",
+        "account_id": "acc_2",
+        "subject": "improving site inspections at your mining operations",
+        "draft_body": "Hi Sebasti\u00e1n, as Jefe HSE, you likely oversee complex site operations similar to those at Escondida, where multiple pits and concentrator plants require meticulous management. Anglo American has seen success in streamlining their processes. Worth 15 minutes to discuss how you currently handle site inspections?",
+        "source_signal_used": "Escondida\u2019s two pits feed three concentrator plants, as well as two leaching operations"
+    },
+    {
+        "name": "",
+        "title": "",
+        "source_url": "",
+        "verification_status": "needs_manual_research",
+        "contact_id": "con_3",
+        "account_id": "acc_3",
+        "subject": "improving safety records in latam mining",
+        "draft_body": "Hi, I came across the impressive safety record at Thacker Pass and wondered if you're exploring similar initiatives at your organization. Anglo American has seen significant reductions in incident rates through proactive measures. Worth 15 minutes to discuss how you're currently handling site safety?",
+        "source_signal_used": "1.69 million workhours were completed at Thacker Pass without a serious injury or lost-time incident in 2025"
+    }
+]
