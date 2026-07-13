@@ -1,47 +1,52 @@
-Autonomous BDR Agent – FlytBase Pipeline
+# Autonomous BDR Agent – FlytBase Pipeline
+
 An AI-assisted outbound prospecting pipeline built for the FlytBase AI-Native BDR role assignment.
 
-The system automates the early stages of enterprise outbound sales by programmatically identifying targets, discovering decision-makers, synthesizing live market research, and drafting highly personalized outreach. To guarantee brand safety, it routes all drafts through a strict, terminal-based Human-in-the-Loop (HITL) review queue before any email is cleared for production.
+The system automates the early stages of enterprise outbound sales by programmatically identifying targets, discovering decision-makers, synthesizing live market research, and drafting highly personalized outreach. To guarantee brand safety, it routes all drafts through a strict, terminal-based **Human-in-the-Loop (HITL) review queue** before any email is cleared for production.
 
-Instead of deploying a basic, fragile LLM wrapper, this system is engineered around accuracy, fault-tolerant modularity, and explicit state preservation.
+Instead of deploying a basic, fragile LLM wrapper, this system is engineered around **accuracy, fault-tolerant modularity, and explicit state preservation**.
 
-🏗️ Project Structure
-Plaintext
+---
+
+## 🏗️ Project Structure
+
+```text
 flytbase-outbound-agent/
 │
 ├── config/
-│ └── campaign*brief.yaml # Target ICP, roles, and core product angles
+│   └── campaign_brief.yaml      # Target ICP, roles, and core product angles
 │
 ├── agents/
-│ ├── account_finder.py # Identifies target enterprise companies
-│ ├── contact_finder.py # Discovers key decision-makers via strict rules
-│ ├── research_synthesizer.py # Gathers live web signals and market news
-│ └── email_generator.py # Contextually drafts personalized copy
+│   ├── account_finder.py        # Identifies target enterprise companies
+│   ├── contact_finder.py        # Discovers key decision-makers via strict rules
+│   ├── research_synthesizer.py  # Gathers live web signals and market news
+│   └── email_generator.py       # Contextually drafts personalized copy
 │
 ├── tools/
-│ ├── web_search.py # Custom search wrappers and parsing utilities
-│ └── llm_client.py # Centralized API inference client
+│   ├── web_search.py            # Custom search wrappers and parsing utilities
+│   └── llm_client.py            # Centralized API inference client
 │
 ├── review/
-│ └── review_queue.py # Interactive HITL terminal review engine
+│   └── review_queue.py          # Interactive HITL terminal review engine
 │
-├── data/ # Persistent state storage (Git-ignored)
-│ └── run*<timestamp>/
-│ ├── accounts.json
-│ ├── contacts.json
-│ ├── research.json
-│ └── emails.json
+├── data/                        # Persistent state storage (Git-ignored)
+│   └── run_<timestamp>/
+│       ├── accounts.json
+│       ├── contacts.json
+│       ├── research.json
+│       └── emails.json
 │
-├── logs/ # Detailed runtime execution tracing
-│ └── run\_<timestamp>.log
+├── logs/                        # Detailed runtime execution tracing
+│   └── run_<timestamp>.log
 │
 ├── tests/
-│ └── test_pipeline.py # Standard pipeline testing suites
+│   └── test_pipeline.py         # Standard pipeline testing suites
 │
-├── orchestrator.py # Main execution controller
-├── requirements.txt # Project dependencies
-├── .env.example # Template for required API keys
-└── README.md # System documentation
+├── orchestrator.py              # Main execution controller
+├── requirements.txt             # Project dependencies
+├── .env.example                 # Template for required API keys
+└── README.md                    # System documentation
+
 🔄 Pipeline Flow
 Plaintext
 [ Campaign Brief ]
@@ -179,3 +184,4 @@ Telemetry Analysis: Introducing confidence scoring models and algorithmic text e
 Neha Kulkarni – Third-Year Computer Engineering Student
 
 Developed for the FlytBase AI-Native BDR Assessment.
+```
